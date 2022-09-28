@@ -1,1 +1,1 @@
-# School-report--Javascript-project
+# School-report---Javascript-project
